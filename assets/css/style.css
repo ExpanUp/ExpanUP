@@ -958,6 +958,7 @@ section {
   position: relative;
   overflow: hidden;
   transition: 0.3s;
+  margin: 23px;
 }
 
 .pricing .box:hover {
